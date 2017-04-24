@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-andrewrk-libsoundio",
+  "dependencies": {
+    "andrewrk/libsoundio": "1.1.0",
+    "google/gtest": "1.8.0"
+  }
+}
